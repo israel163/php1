@@ -1,3 +1,3 @@
 <?php
-  echo 'Hello world from about page';
+  echo 'Hello world from about page updated';
 ?>
